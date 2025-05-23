@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-05-23T11:44:24.989Z",
+  "network": "unknown",
+  "contracts": {
+    "bridgeAddress": "EQALwRDUqdKaXSoyuhssZRYkEmts7_n-XXn1DCIjgyDTpVnw",
+    "multisigAddress": "EQABvc8L0cBfYcCzb-cteqjMBMV18W-2npN-s8OxeTTygRh6",
+    "votesCollectorAddress": "EQBhRt0ZqPU0K4Dupaau4gKlV9j0Gc162XPsH4NnlOa2JXhA",
+    "exampleMinterAddress": "EQAXhHRAqLPADfuWtbPn0Mdf6GT1KV048bMtlcgEQVQsThfx"
+  },
+  "collectorAddress": "EQBUpvq8idQZC2GQ5tch0ECJwH1U6Azhcgc9mp-_JtmrnAOt",
+  "multisigConfig": {
+    "walletId": 2280431054,
+    "n": 3,
+    "k": 2,
+    "oracles": [
+      {
+        "index": 0,
+        "publicKey": "d51e1d5e2cc7138259577ff4627d6574641e528a9871aad93ca1c12fd92cb56c"
+      },
+      {
+        "index": 1,
+        "publicKey": "b5ce4e3a55fe6c28319498de56e6254928928e0b2434d2a4bc716303de031c58"
+      },
+      {
+        "index": 2,
+        "publicKey": "d70b7eb7f76b9235e51d2fb6859a7581e980b62e99760bd642ff5afd72fe27b"
+      }
+    ]
+  },
+  "configParameters": {
+    "myChainId": 1,
+    "bridgeBurnFee": "100000000",
+    "bridgeMintFee": "150000000",
+    "walletMinTonsForStorage": "10000000",
+    "walletGasConsumption": "10000000",
+    "minterMinTonsForStorage": "50000000",
+    "discoverGasConsumption": "50000000",
+    "stateFlags": 0
+  }
+}
